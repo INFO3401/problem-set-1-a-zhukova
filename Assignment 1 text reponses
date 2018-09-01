@@ -1,0 +1,27 @@
+Assignment 1 text reponses
+
+Wednesday:
+
+1. Kexin Zhai
+
+From Shenzhen, Guandong (Found on Facebook)
+Worked as a Youth Coding Assistant at the Boulder Public Library (Found on LinkeIn)
+Speaks Chinese (Found in LinkedIn)
+Has a white fluffy cat (Found on Instagram)
+Travels home to China a lot based on Facebook pictures (Found on Facebook)
+
+2. Some scenarios that would warrant version control:
+- Making changes to a collaborative project simultaneously
+- Minimize the risk of trying new solutions to solve bugs in your code without breaking what you already wrote
+- Backs up project incase a newer version gets corrupted
+- When you want to incorporate other people's systems into your project
+
+3. Will be shown in test-repo-3401 
+link: https://github.com/a-zhukova/test-repo-3401.git
+
+4. On this problem, I wokred with Kexin and Jack. They shared ther repositories with each other first and resolved those issues before sharing it with me. The only problem we had with the changes I made to their file was the fact that a merge conflict popped up on Kexin's laptop once I committed my changes, which she resolved by commiting the merge of my changes to their master copy in GitHub.
+
+5. Some strategies I might use when managing collaborative projects through GitHub:
+- At the beginning of the project, making sure that all the people I'm collaborating with are in the same room if possible. This will allow us to resolve any conflicts that may arise at the start of the projecct immediately as they pop up before we begin working remotely. 
+- Making sure to clone the newest version of the running project every time so I'm working with the updated copy rather than an old version. 
+- Make sure to push newly merged files to the remote repo so that my collaborators are working with the most updated version of the file. 
